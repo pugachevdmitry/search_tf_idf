@@ -1,0 +1,97 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"build" : "src/search",
+					"jsonFile" : "directory-src.search-Debug-0944e0a933d24469908b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/search",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "search-tf-idf",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "contrib_catch_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-contrib_catch_main-Debug-a8ad1250895105cf9d8c.json",
+					"name" : "contrib_catch_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test-all::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test-all-Debug-619d1289b76656282d31.json",
+					"name" : "test-all",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "test_search::@ef4e8a3a013c80b4f3cb",
+					"jsonFile" : "target-test_search-Debug-4140b1a524eedbe2c6cc.json",
+					"name" : "test_search",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/dmitrypugachev/hw/search_tf_idf/cmake-build-debug",
+		"source" : "/Users/dmitrypugachev/hw/search_tf_idf"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

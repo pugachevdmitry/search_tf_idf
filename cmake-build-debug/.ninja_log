@@ -1,0 +1,14 @@
+# ninja log v5
+16	1243	1697538308797499406	src/search/CMakeFiles/test_search.dir/search.cpp.o	dafd7402c542fee9
+3	1387	1697538843597423666	src/search/CMakeFiles/test_search.dir/test.cpp.o	161d22337fb0caf2
+9	4001	1697415810017770371	tasks/search/CMakeFiles/test_search.dir/test.cpp.o	377cdbf816d8fcbf
+4933	5122	1697538312680685000	libcontrib_catch_main.a	2847fe3002c6f4dc
+14	4933	1697538312480220316	CMakeFiles/contrib_catch_main.dir/contrib/catch/catch_main.cpp.o	f1b56f385a7cf390
+5	2128	1697417431064470905	tasks/search/CMakeFiles/test_search.dir/search.cpp.o	4abea971d8478be1
+1388	1766	1697538843983575124	test_search	5cfca91d6de28e5e
+1	56	1697538856668166146	build.ninja	681cd4749fa9b7c1
+0	53	1697538856668166146	build.ninja	681cd4749fa9b7c1
+4	1186	1697538882523717294	src/search/CMakeFiles/test_search.dir/search.cpp.o	dafd7402c542fee9
+1186	1417	1697538882766421637	test_search	5cfca91d6de28e5e
+3	1308	1697538887035701751	src/search/CMakeFiles/test_search.dir/search.cpp.o	dafd7402c542fee9
+1308	1475	1697538887208493083	test_search	5cfca91d6de28e5e

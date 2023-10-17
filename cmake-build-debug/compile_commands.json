@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/dmitrypugachev/hw/search_tf_idf/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/dmitrypugachev/hw/search_tf_idf/contrib/catch -I/Users/dmitrypugachev/hw/search_tf_idf/util  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fcolor-diagnostics -o CMakeFiles/contrib_catch_main.dir/contrib/catch/catch_main.cpp.o -c /Users/dmitrypugachev/hw/search_tf_idf/contrib/catch/catch_main.cpp",
+  "file": "/Users/dmitrypugachev/hw/search_tf_idf/contrib/catch/catch_main.cpp",
+  "output": "CMakeFiles/contrib_catch_main.dir/contrib/catch/catch_main.cpp.o"
+},
+{
+  "directory": "/Users/dmitrypugachev/hw/search_tf_idf/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/dmitrypugachev/hw/search_tf_idf/util -I/Users/dmitrypugachev/hw/search_tf_idf/src/search -I/Users/dmitrypugachev/hw/search_tf_idf/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fcolor-diagnostics -o src/search/CMakeFiles/test_search.dir/test.cpp.o -c /Users/dmitrypugachev/hw/search_tf_idf/src/search/test.cpp",
+  "file": "/Users/dmitrypugachev/hw/search_tf_idf/src/search/test.cpp",
+  "output": "src/search/CMakeFiles/test_search.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/dmitrypugachev/hw/search_tf_idf/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/dmitrypugachev/hw/search_tf_idf/util -I/Users/dmitrypugachev/hw/search_tf_idf/src/search -I/Users/dmitrypugachev/hw/search_tf_idf/contrib/catch  -Wall -Werror -Wimplicit-fallthrough -g -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fcolor-diagnostics -o src/search/CMakeFiles/test_search.dir/search.cpp.o -c /Users/dmitrypugachev/hw/search_tf_idf/src/search/search.cpp",
+  "file": "/Users/dmitrypugachev/hw/search_tf_idf/src/search/search.cpp",
+  "output": "src/search/CMakeFiles/test_search.dir/search.cpp.o"
+}
+]

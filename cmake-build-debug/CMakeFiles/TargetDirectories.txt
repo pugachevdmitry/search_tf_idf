@@ -1,0 +1,7 @@
+/Users/dmitrypugachev/hw/search_tf_idf/cmake-build-debug/CMakeFiles/test-all.dir
+/Users/dmitrypugachev/hw/search_tf_idf/cmake-build-debug/CMakeFiles/contrib_catch_main.dir
+/Users/dmitrypugachev/hw/search_tf_idf/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dmitrypugachev/hw/search_tf_idf/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dmitrypugachev/hw/search_tf_idf/cmake-build-debug/src/search/CMakeFiles/test_search.dir
+/Users/dmitrypugachev/hw/search_tf_idf/cmake-build-debug/src/search/CMakeFiles/edit_cache.dir
+/Users/dmitrypugachev/hw/search_tf_idf/cmake-build-debug/src/search/CMakeFiles/rebuild_cache.dir
